@@ -21,5 +21,5 @@ This project is an end-to-end Car Price Prediction system built using Machine Le
 - fuel_type – Fuel type
 - Price – Selling price (target variable)
 
-- Output:
+**Output:**
 - <img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/4b341342-7c71-4a6f-8610-4537ab2b809a" />
