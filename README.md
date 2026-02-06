@@ -13,7 +13,7 @@ This project is an end-to-end Car Price Prediction system built using Machine Le
 - Raw File: quikr_car.csv
 - Cleaned File: Cleaned Car.csv
 
-  **Key Features:**
+**Key Features:**
 - name – Car model name
 - company – Manufacturer
 - year – Manufacturing year
